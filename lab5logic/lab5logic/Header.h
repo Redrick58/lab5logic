@@ -2,4 +2,4 @@
 
 int pr_adj_matrix(char** matrix, int size);
 char** gen_adj_matrix(int size);
-void POG(char** matrix, int size);
+void POSH(char** matrix, int size);

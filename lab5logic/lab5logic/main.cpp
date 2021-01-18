@@ -17,6 +17,7 @@ int main() {
 	printf("Матрица смежности: \n");
 	pr_adj_matrix(adj, size);
 	printf("\n");
-	POG(adj, size);
+	printf("Порядок обхода: \n");
+	POSH(adj, size);
 	_getch();
 }
